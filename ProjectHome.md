@@ -1,0 +1,1 @@
+C++ bindings to the Battle.NET api
